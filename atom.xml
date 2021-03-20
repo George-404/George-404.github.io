@@ -6,7 +6,7 @@
   <link href="https://george-404.github.io/atom.xml" rel="self"/>
   
   <link href="https://george-404.github.io/"/>
-  <updated>2021-03-19T12:55:19.632Z</updated>
+  <updated>2021-03-20T08:00:31.938Z</updated>
   <id>https://george-404.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://george-404.github.io/2021/03/20/%E5%88%9D%E8%AF%86Linux/"/>
+    <id>https://george-404.github.io/2021/03/20/%E5%88%9D%E8%AF%86Linux/</id>
+    <published>2021-03-20T08:03:41.696Z</published>
+    <updated>2021-03-20T08:00:31.938Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="初识Linux"><a href="#初识Linux" class="headerlink" title="初识Linux"></a>初识Linux</h1><h2 id="开源与Linux系统发展史"><a href="#开源与Linux系统发展史" class="headerlink" title="开源与Linux系统发展史"></a>开源与Linux系统发展史</h2><h2 id="开源软件"><a href="#开源软件" class="headerlink" title="开源软件"></a>开源软件</h2><p>​    把软件程序与源代码文件一起打包提供给用户，让用户在不受限制地使用某个软件功能的基础上还可以 按需进行修改，或编制成衍生产品再发布出去。用户具有使用自由、修改自由、重新发布自由以及创建 衍生品的自由。</p><h2 id="开源软件的特性"><a href="#开源软件的特性" class="headerlink" title="开源软件的特性"></a>开源软件的特性</h2><ul><li>低风险</li><li>高品质</li><li>低成本</li><li>更透明</li></ul><h2 id="常见的开源协议"><a href="#常见的开源协议" class="headerlink" title="常见的开源协议"></a>常见的开源协议</h2><ul><li><p><strong>GUN GPL (（GNU General Public License，GNU通用公共许可证)</strong></p><p>只要软件中包含了遵循GPL协议的产品或代码，该软件就必须也遵循GPL许可协议且开源、免费，因此 这个协议并不适合商用软件。遵循该协议的开源软件数量极其庞大，包括Linux系统在内的大多数的开源 软件都是基于这个协议的。</p><ul><li><p>复制自由</p><p>允许把软件复制到任何人的电脑中，并且不限制复制的数量。</p></li><li><p>传播自由</p><p>允许软件以各种形式进行传播。</p></li><li><p>收费自由</p><p>允许在各种媒介上出售该软件，但必须提前让买家知道这个软件是可以免费获得的；因此，一 般来讲，开源软件都是通过为用户提供有偿服务的形式来盈利的。</p></li><li><p>修改自由</p><p>允许开发人员增加或删除软件的功能，但软件修改后必须依然基于GPL许可协议授权。</p></li></ul></li><li><p><strong>MPL（Mozilla Public License，Mozilla公共许可）许可协议</strong></p></li><li><p><strong>MIT（Massachusetts Institute of Technology）许可协议</strong></p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;初识Linux&quot;&gt;&lt;a href=&quot;#初识Linux&quot; class=&quot;headerlink&quot; title=&quot;初识Linux&quot;&gt;&lt;/a&gt;初识Linux&lt;/h1&gt;&lt;h2 id=&quot;开源与Linux系统发展史&quot;&gt;&lt;a href=&quot;#开源与Linux系统发展史&quot; class</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
